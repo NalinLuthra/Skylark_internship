@@ -31,6 +31,7 @@ You can also install all the dependencies running req.sh script in main director
 
 
 'sudo chmod u+x req.sh'
+
 './req.sh'
 
 
