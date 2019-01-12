@@ -27,7 +27,7 @@
 
 You can also install all the dependencies running req.sh script in main directory
 
-### Commands to run req.sh
+## Commands to run req.sh
 
 
 'sudo chmod u+x req.sh'
