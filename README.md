@@ -29,8 +29,8 @@
 
 #### Commands to run req.sh
 
-'sudo chmod u+x req.sh'
-'./req.sh'
+'''sudo chmod u+x req.sh
+./req.sh'''
 
 ## Run Python Script for given task:-
     'python task.py'
