@@ -25,9 +25,9 @@
     2.) simplekml ---> pip install simplekml
     3.) piexif ---> pip install piexif
 
-### You can also install all the dependencies running req.sh script in main directory
+#### You can also install all the dependencies running req.sh script in main directory
 
-### Commands to run req.sh
+#### Commands to run req.sh
 
 'sudo chmod u+x req.sh'
 './req.sh'
@@ -35,7 +35,7 @@
 ## Run Python Script for given task:-
     'python task.py'
 
-### Every output will be stored in folder name "answers"
+#### Every output will be stored in folder name "answers"
 
-### Extra info
+#### Extra info
     4 Images are missing EXIF(GPS) Values :- DJI_0061.JPG : DJI_0452.JPG : DJI_0377.JPG : DJI_0605.JPG
