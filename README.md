@@ -25,13 +25,13 @@
     2.) simplekml ---> pip install simplekml
     3.) piexif ---> pip install piexif
 
-#### You can also install all the dependencies running req.sh script in main directory
+You can also install all the dependencies running req.sh script in main directory
 
-#### Commands to run req.sh
+### Commands to run req.sh
 
 
-'sudo chmod u+x req.sh
-./req.sh'
+'sudo chmod u+x req.sh'
+'./req.sh'
 
 
 ## Run Python Script for given task:-
