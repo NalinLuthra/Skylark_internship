@@ -29,13 +29,13 @@
 
 #### Commands to run req.sh
 
-'''bash
+'''python
 sudo chmod u+x req.sh
 ./req.sh
 '''
 
 ## Run Python Script for given task:-
-    'python task.py'
+    python task.py
 
 #### Every output will be stored in folder name "answers"
 
