@@ -38,7 +38,7 @@ You can also install all the dependencies running req.sh script in main director
 ## Run Python Script for given task:-
     python task.py
 
-#### Every output will be stored in folder name "answers"
+#### All outputs are stored in folder name "answers"
 
 #### Extra info
     4 Images are missing EXIF(GPS) Values :- DJI_0061.JPG : DJI_0452.JPG : DJI_0377.JPG : DJI_0605.JPG
